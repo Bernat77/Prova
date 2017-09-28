@@ -1,2 +1,0 @@
-# Prova
-Repositori de proves
