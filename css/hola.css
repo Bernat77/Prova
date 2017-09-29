@@ -1,1 +1,8 @@
-<h1><font color="red"> Fitxer CSS. </font></h1>
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: navy;
+    margin-left: 20px;
+}
